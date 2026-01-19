@@ -1,4 +1,11 @@
-# Decentralized-Identity-Management-for-IoT-Devices-Using-IOTA-Blockchain-Technology
+<h1 aligh="center">Decentralized-Identity-Management-for-IoT-Devices-Using-IOTA-Blockchain-Technology</h1>
+<p align="center">Decentralized-Identity-Management-for-IoT-Devices-Using-IOTA-Blockchain-Technology</p>
+
+<p align="center">
+  <a href="https://doi.org/10.3390/fi17010049">
+    <img src="https://img.shields.io/badge/Future Internet-2025-blue" alt="Feature Requests">
+  </a>
+</p>
 
 ## Overview
 This repository contains the source code and implementation details for the paper **"Decentralized Identity Management for IoT Devices Using IOTA Blockchain Technology"**. The project explores a scalable, secure, and privacy-preserving identity management framework for IoT devices, leveraging the IOTA Tangle, decentralized identifiers (DIDs), verifiable credentials (VCs), and IOTA-specific technologies such as **IOTA Identity**, **IOTA Streams**, and **IOTA Stronghold**.
@@ -86,9 +93,18 @@ If you use this repository, please cite:
 ```
 Ramírez, T.; Maciá-Lillo, A.; Pujol, F.A.; Garcia-D’Hurso, N.; Azorin-Lopez, J.; Mora, H. 
 "Decentralized Identity Management for IoT Devices Using IOTA Blockchain Technology". 
-Future Internet 2024. DOI: https://doi.org/xxxxxx
+Future Internet 2025. 17(1), 49. https://doi.org/10.3390/fi17010049
 ```
-
+```bibtex
+@article{Tamai_2025a,
+	title = {Decentralized Identity Management for IoT Devices Using IOTA Blockchain Technology},
+	issn = {1999-5903},
+	doi = {10.3390/fi17010049},
+	journal = {Future Internet},
+	author = {Ramirez-Gordillo, Tamai and Maciá-Lillo, Antonio and Pujol, Francisco A. and Garcia-D’Hurso, Nahuel and Azorin-Lopez, Jorge; Mora, Higinio},
+	year = {2025}
+}
+```
 ## Contact
 For questions or collaborations, contact:
 - **Tamai Ramírez** - [tamai.ramirez@ua.es](mailto:tamai.ramirez@ua.es)
